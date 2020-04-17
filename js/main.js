@@ -407,7 +407,7 @@ function begin(){
 }
 //游戏结束后点击继续按钮事件
 function jixu(){
-window.location.href="https://jq.qq.com/?_wv=1027&k=58Yqpyi";
+window.location.href="";
 }
 
 /*
